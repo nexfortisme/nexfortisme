@@ -2,6 +2,7 @@
 
 // Todo
 
+![](https://komarev.com/ghpvc/?username=nexfortisme&color=blue)
 <!--
 **nexfortisme/nexfortisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

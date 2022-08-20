@@ -1,5 +1,3 @@
-### Hi there 👋
-
 // Todo
 
 ![](https://komarev.com/ghpvc/?username=nexfortisme&color=blue)
